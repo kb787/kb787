@@ -20,7 +20,7 @@
 ### Introduction  
 An enthusiastic software developer having hands on 
 experience in various domains like Full Stack Development, 
-Android App Development, Cloud, Machine Learning. I look to 
+Mobile App Development, Cloud, Machine Learning. I look to 
 implement my technical knowledge for creating a robust and
 a problem solving product  
   
